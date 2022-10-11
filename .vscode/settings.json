@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "thread": "cpp",
+    "bitset": "cpp",
+    "algorithm": "cpp",
+    "new": "cpp",
+    "iostream": "cpp"
+  }
+}
